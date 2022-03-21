@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Markus Laaksonen</title>
+    <link href="https://www.mxa.fi/feed.xml" rel="self" />
+    <link href="https://www.mxa.fi" />
+    <updated>2022-03-21T11:54:03+02:00</updated>
+    <author>
+        <name>Markus Laaksonen</name>
+    </author>
+    <id>https://www.mxa.fi</id>
+
+    <entry>
+        <title>This site is a project</title>
+        <author>
+            <name>Markus Laaksonen</name>
+        </author>
+        <link href="https://www.mxa.fi/who-am-i/"/>
+        <id>https://www.mxa.fi/who-am-i/</id>
+
+        <updated>2022-03-21T11:54:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    What would life be if we had no courage to attempt anything? Vincent Van Gogh I created this site with Publii&nbsp;on GitHub Pages because it's fast and easy for the time being. This site is going to change, there's no way around that. I'll try&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="blockquote">
+      <blockquote>What would life be if we had no courage to attempt anything?</blockquote>
+      <figcaption>Vincent Van Gogh</figcaption>
+    </figure>
+
+  <p>
+    I created this site with <a href="https://getpublii.com/">Publii</a>&nbsp;on <a href="https://pages.github.com/">GitHub Pages</a> because it's fast and easy for the time being. This site is going to change, there's no way around that. I'll try every static site generator available, change the place that hosts my site, create serverless functions and all that. Therefore, I can't guarantee nor should there be any expectation of uptime or regular content.
+  </p>
+
+  <p>
+    I don't know what this project is going to turn into, but for now, I feel like exploring static site generation and basic website design. In the future, I'll use the following list for inspiration:
+  </p>
+
+  <ul>
+    <li>Serverless functions</li><li>Copywriting</li><li>Short-form writing from long-form project blogs</li><li>Linktree-ish page for other socials etc.</li><li>Text stenography (not yet)</li><li>GDPR-compliant simple analytics</li><li>Dark/Light -mode switch</li><li>Better fonts</li><li>Art on pages</li><li>Animations on pages</li>
+  </ul>
+
+  <p>
+    Thanks for reading my first post :)
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

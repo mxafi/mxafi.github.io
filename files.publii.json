@@ -1,0 +1,212 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "25987da6ad2520f23ffe26289f9f0641"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "46a2a8f5077bd1d1dca22fb2d157d7da"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "833a7faaef7ac3fb111eb52ba1d382ab"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "400c064486cb3577ffe1cc88c62515b4"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "6ca8b60e6534a3888de1205e82df8528"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "3f007dc85fd8629e11dad3e000154b2b"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "8bf40ff77cd909f3f10b282e353eb5f6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/me",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/me/index.html",
+        "type": "file",
+        "md5": "b7ae5086638852db7f303aa60b00f02f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "35188454f964aff8b616ac0973ea332b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "128c9a2c4de4fcf5a16831c6f5e64a7e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "41871e6c7f3ff0d33a0bcd1044891bbc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/MXAFI-Logo.png",
+        "type": "file",
+        "md5": "77ea290ced21cb4e6eaaf0bfc6730b29"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-2xl.png",
+        "type": "file",
+        "md5": "dbaf01b39d0dd01c2b9441ce1f6ac9d0"
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-lg.png",
+        "type": "file",
+        "md5": "dbaf01b39d0dd01c2b9441ce1f6ac9d0"
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-md.png",
+        "type": "file",
+        "md5": "dbaf01b39d0dd01c2b9441ce1f6ac9d0"
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-sm.png",
+        "type": "file",
+        "md5": "79732b435b1a65dacf395cb701981715"
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-xl.png",
+        "type": "file",
+        "md5": "dbaf01b39d0dd01c2b9441ce1f6ac9d0"
+    },
+    {
+        "path": "/media/website/responsive/MXAFI-Logo-xs.png",
+        "type": "file",
+        "md5": "431f32bec4c07b89718897ffa5366756"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2e58c5b048f1ce620ec6b004aff97f14"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "0332f6eaef66766344c39908742e240e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "007bcea69aa04590e2332de51736025b"
+    },
+    {
+        "path": "who-am-i",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/who-am-i/index.html",
+        "type": "file",
+        "md5": "09e84a0dc0a5fed8e3c43e95122b3ff8"
+    }
+]
