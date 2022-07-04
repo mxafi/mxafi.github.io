@@ -1,11 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.mxa.fi/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-<loc>https://www.mxa.fi/</loc>
-</url>
-<url>
-<loc>https://www.mxa.fi/who-am-i/</loc>
-<lastmod>2022-03-21T11:54:03+02:00</lastmod>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.mxa.fi/about/</loc>
+    <lastmod>2022-07-04T02:24:51+03:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/bits/</loc>
+    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/</loc>
+    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/tags/meta/</loc>
+    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/tags/</loc>
+    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/bits/2022/this-site-is-a-project/</loc>
+    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mxa.fi/archives/</loc>
+  </url><url>
+    <loc>https://www.mxa.fi/categories/</loc>
+  </url>
 </urlset>
