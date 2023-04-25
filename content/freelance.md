@@ -1,0 +1,43 @@
+---
+title: "Get the Results You Want with Markus"
+date: 2022-07-04T02:24:51+03:00
+draft: false
+disableShare: true
+hideSummary: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+---
+
+## Professional Services Tailored to Your Needs
+
+Looking for a versatile freelancer who can provide a range of high-quality services?
+Look no further! I offer a diverse range of professional services, including:
+
+- Web & Marketing
+  - Web design
+  - Ad management
+  - Marketing data analysis
+  - A/B testing
+- Finnish-English translation
+- Consulting on business management and IT infrastructure
+- Scripting in Bash
+- Coding in C
+- Tutoring on C programming and physics
+- Roof work in Southern Finland
+
+Whether you need a stunning website, expert marketing analysis, or help with your IT infrastructure,
+I have the skills and knowledge to deliver top-quality results.
+Plus, if you need tutoring or hands-on support, I'm happy to help.
+
+I'm committed to delivering high-quality work and excellent customer service.
+Contact me today to learn more about my services and discuss your needs in detail.
+Schedule a quick video meeting using [this link](https://cal.com/mxafi/scope-requirements),
+or email me directly at <firstname@mxa.fi>.
+
+***
+
+*I offer a complimentary first meeting to discuss your project requirements and scope.
+Let's work together to bring your vision to life!*
