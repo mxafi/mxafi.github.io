@@ -21,10 +21,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/mxafi/mxafi.github.io/content"
+    URL: "https://github.com/mxafi/mxafi.github.io/blob/main/content"
     Text: "Suggest Edits" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
 I created this site with Publii on GitHub Pages because it's fast and easy for the time being. This site is going to change, there's no way around that. I'll try every static site generator available, change the place that hosts my site, create serverless functions and all that. Therefore, I can't guarantee nor should there be any expectation of uptime or regular content.
 
 I don't know what this project is going to turn into, but for now, I feel like exploring static site generation and basic website design. In the future, I'll use the following list for inspiration:

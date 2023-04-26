@@ -1,6 +1,6 @@
 ---
-title: "Get the Results You Want with Markus"
-date: 2022-07-04T02:24:51+03:00
+title: "My Freelance Services"
+date: 2023-01-10T07:31:20+03:00
 draft: false
 disableShare: true
 hideSummary: true
@@ -11,10 +11,8 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 ---
 
-## Professional Services Tailored to Your Needs
-
-Looking for a versatile freelancer who can provide a range of high-quality services?
-Look no further! I offer a diverse range of professional services, including:
+Are you in need of a freelancer who can provide you with a range of high-quality services?
+I'm here to offer my help! I can provide you with various professional services that may suit your needs, including:
 
 - Web & Marketing
   - Web design
@@ -26,7 +24,6 @@ Look no further! I offer a diverse range of professional services, including:
 - Scripting in Bash
 - Coding in C
 - Tutoring on C programming and physics
-- Roof work in Southern Finland
 
 Whether you need a stunning website, expert marketing analysis, or help with your IT infrastructure,
 I have the skills and knowledge to deliver top-quality results.
@@ -34,10 +31,10 @@ Plus, if you need tutoring or hands-on support, I'm happy to help.
 
 I'm committed to delivering high-quality work and excellent customer service.
 Contact me today to learn more about my services and discuss your needs in detail.
-Schedule a quick video meeting using [this link](https://cal.com/mxafi/scope-requirements),
-or email me directly at <firstname@mxa.fi>.
+Schedule a quick video meeting using the link below,
+or email me through the address in my about page.
 
-***
+[https://cal.com/mxafi/scope-requirements](https://cal.com/mxafi/scope-requirements)
 
 *I offer a complimentary first meeting to discuss your project requirements and scope.
 Let's work together to bring your vision to life!*

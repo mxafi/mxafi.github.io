@@ -31,7 +31,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/mxafi/mxafi.github.io/content"
+    URL: "https://github.com/mxafi/mxafi.github.io/blob/main/content"
     Text: "Suggest Edits" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
