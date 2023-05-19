@@ -1,0 +1,50 @@
+<form style="color: var(--content);" action="https://api.web3forms.com/submit" method="POST" id="form">
+  <fieldset>
+    <legend>Contact Form</legend>
+    <input type="hidden" name="access_key" value="16bcd915-514d-4f61-bd88-dec65f87339c" />
+    <input type="hidden" name="subject" value="New Submission from mxa.fi/freelance" />
+    <input
+      type="hidden"
+      name="redirect"
+      value="https://web3forms.com/success"
+    />
+    <input type="checkbox" name="botcheck" id="" style="display: none;" />
+    <div>
+      <label for="name">Full Name:</label><br />
+      <input
+        style="color: var(--content);"
+        type="text"
+        name="name"
+        id="name"
+        placeholder="John Doe"
+        required
+      />
+      <br /><br />
+    </div>
+    <div>
+      <label for="email">Email Address:</label><br />
+      <input
+        style="color: var(--content);"
+        type="email"
+        name="email"
+        id="email"
+        placeholder="you@company.com"
+        required
+      /><br /><br />
+    </div>
+    <div>
+      <label for="message">Your Message:</label>
+      <br />
+      <textarea
+        style="color: var(--content);"
+        rows="5"
+        name="message"
+        id="message"
+        placeholder="The message you want to send to me."
+        required
+      ></textarea
+      ><br /><br />
+    </div>
+    <button type="submit">Send Message</button>
+  </fieldset>
+</form>

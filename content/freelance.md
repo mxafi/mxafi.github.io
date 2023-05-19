@@ -31,10 +31,17 @@ Plus, if you need tutoring or hands-on support, I'm happy to help.
 
 I'm committed to delivering high-quality work and excellent customer service.
 Contact me today to learn more about my services and discuss your needs in detail.
-Schedule a quick video meeting using the link below,
-or email me through the address in my about page.
+Schedule a quick video meeting using the link below!
 
 [https://cal.com/mxafi/scope-requirements](https://cal.com/mxafi/scope-requirements)
 
 *I offer a complimentary first meeting to discuss your project requirements and scope.
 Let's work together to bring your vision to life!*
+
+***
+
+If you have any questions regarding my services or exisiting orders, contact me using
+the contact form below:
+
+{{< contactform >}}
+
