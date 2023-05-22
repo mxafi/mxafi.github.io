@@ -40,7 +40,7 @@ Let's work together to bring your vision to life!*
 
 ***
 
-If you have any questions regarding my services or exisiting orders, contact me using
+If you have any questions regarding my services or existing orders, contact me using
 the contact form below:
 
 {{< contactform >}}
