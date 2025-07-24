@@ -10,15 +10,33 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://www.mxa.fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 07:31:20 +0300</lastBuildDate><atom:link href="https://www.mxa.fi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Freelance Services</title>
       <link>https://www.mxa.fi/freelance/</link>
       <pubDate>Tue, 10 Jan 2023 07:31:20 +0300</pubDate>
       
       <guid>https://www.mxa.fi/freelance/</guid>
-      <description>Are you in need of a freelancer who can provide you with a range of high-quality services? I&amp;rsquo;m here to offer my help! I can provide you with various professional services that may suit your needs, including:
-Web &amp;amp; Marketing Web design Ad management Marketing data analysis A/B testing Finnish-English translation Consulting on business management and IT infrastructure Scripting in Bash Coding in C Tutoring on C programming and physics Whether you need a stunning website, expert marketing analysis, or help with your IT infrastructure, I have the skills and knowledge to deliver top-quality results.</description>
+      <description>&lt;p&gt;Are you in need of a freelancer who can provide you with a range of high-quality services?
+I&amp;rsquo;m here to offer my help! I can provide you with various professional services that may suit your needs, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web &amp;amp; Marketing
+&lt;ul&gt;
+&lt;li&gt;Web design&lt;/li&gt;
+&lt;li&gt;Ad management&lt;/li&gt;
+&lt;li&gt;Marketing data analysis&lt;/li&gt;
+&lt;li&gt;A/B testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finnish-English translation&lt;/li&gt;
+&lt;li&gt;Consulting on business management and IT infrastructure&lt;/li&gt;
+&lt;li&gt;Scripting in Bash&lt;/li&gt;
+&lt;li&gt;Coding in C&lt;/li&gt;
+&lt;li&gt;Tutoring on C programming and physics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you need a stunning website, expert marketing analysis, or help with your IT infrastructure,
+I have the skills and knowledge to deliver top-quality results.
+Plus, if you need tutoring or hands-on support, I&amp;rsquo;m happy to help.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,10 +45,16 @@ Web &amp;amp; Marketing Web design Ad management Marketing data analysis A/B tes
       <pubDate>Mon, 04 Jul 2022 02:24:51 +0300</pubDate>
       
       <guid>https://www.mxa.fi/about/</guid>
-      <description>Thinker, learner, and a doer. I think of stuff and make it happen.
-Patent pending on that line, not generic at all.
-My name is Markus Laaksonen I&amp;rsquo;m currently doing a lot of stuff. You probably read the things I said on my main page about doing business and systems administration, yes I do that. To add to that, I&amp;rsquo;m currently learning coding at Hive Helsinki in Finland.
-If you want to contact me, feel free to send me an email at markus@mxa.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Thinker, learner, and a doer. I think of stuff and make it happen.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Patent pending on that line, not generic at all.&lt;/p&gt;
+&lt;h2 id=&#34;my-name-is-markus-laaksonen&#34;&gt;My name is Markus Laaksonen&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m currently doing a lot of stuff.
+You probably read the things I said on my main page about doing business and systems administration, yes I do that.
+To add to that, I&amp;rsquo;m currently learning coding at Hive Helsinki in Finland.&lt;/p&gt;
+&lt;p&gt;If you want to contact me, please fill out the form below:
+&lt;div data-tf-widget=&#34;JLmProSS&#34; data-tf-opacity=&#34;100&#34; data-tf-iframe-props=&#34;title=Markus&#39;s Contact Form&#34; data-tf-transitive-search-params data-tf-medium=&#34;snippet&#34; data-tf-hidden=&#34;utm_source=www.mxa.fi&#34; style=&#34;width:100%;height:500px;&#34;&gt;&lt;/div&gt;&lt;script src=&#34;//embed.typeform.com/next/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>

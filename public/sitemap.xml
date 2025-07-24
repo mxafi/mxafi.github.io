@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.mxa.fi/</loc>
+    <lastmod>2023-01-10T07:31:20+03:00</lastmod>
+  </url><url>
     <loc>https://www.mxa.fi/freelance/</loc>
     <lastmod>2023-01-10T07:31:20+03:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2022-07-04T02:24:51+03:00</lastmod>
   </url><url>
     <loc>https://www.mxa.fi/bits/</loc>
-    <lastmod>2022-03-20T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.mxa.fi/</loc>
     <lastmod>2022-03-20T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://www.mxa.fi/tags/meta/</loc>
